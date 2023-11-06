@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "👋 Get inetractive help on our slack channel"
+    url: https://azuredevopsclub.slack.com/archives/CTR2KR6AX 
+    about: Takes you to the slack channel for the courseware team. 
+  - name: "🚒 Report a security problem"
+    url: https://github.com/jessehouwing/pretty-github/security/advisories/new
+    about: Report the security problem privately. 
+  - name: "🪲 Report a bug"
+    url: https://github.com/jessehouwing/pretty-github/issues/new?assignees=&labels=🐞%20bug
+    about: Small typos, broken links and other actionable items can be reported here.
