@@ -19,5 +19,7 @@
  13. [Add a 😁 personal touch by setting up your profile repo.](https://github.com/jessehouwing/jessehouwing)
  14. [Use ▶️ GitHub Actions to automatically keep your profile up to date with 😻 useful content](https://github.com/jessehouwing/jessehouwing/blob/master/.github/workflows/blog-post-workflow.yml)
 
+## Works for orgs as well!
+
 ## Pictures
 ![image](https://github.com/jessehouwing/pretty-github/assets/4173387/7cb611bf-dd7d-43be-a0a6-9d2b8cf79c0e)
