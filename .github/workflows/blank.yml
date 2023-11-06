@@ -1,0 +1,26 @@
+name: Demo
+
+on:
+  workflow_dispatch:
+
+
+jobs:
+  deploy-test:
+    environment:
+      name: test
+      url: https://github.com/jessehouwing/pretty-github/tree/test
+    
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@4
+
+  deploy-prod:
+    environment:
+      name: test
+      url: https://github.com/jessehouwing/pretty-github/tree/main
+    
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@4
