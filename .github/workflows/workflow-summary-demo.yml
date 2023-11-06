@@ -10,6 +10,6 @@ jobs:
     steps:
       - name: Write a workflow summary
         run: |
-          echo "# Useful links:
+          echo "# 🔗 Useful links
             - [🌐 Test environment](https://github.com/jessehouwing/pretty-github/blob/test/README.md)
-            - [✅ Test scripts](https://github.com/jessehouwing/pretty-github/tree/test/docs/test)
+            - [✅ Test scripts](https://github.com/jessehouwing/pretty-github/tree/test/docs/test)" >> $GITHUB_STEP_SUMMARY
