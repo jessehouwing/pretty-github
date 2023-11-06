@@ -12,6 +12,6 @@
  6. Add 🔗 links to your deployments using Actions Environment URLs.
  7. Add a 📲 workflow summary with ℹ️ useful links.
  8. Don't forget to add 🖼️ pictures and 🧜‍♀️ graphs.
- 9. 🌶️ Spice up your projects with 🚦 emoji and 📱 colors.
+ 9. [🌶️ Spice up your projects with 🚦 emoji and 📱 colors.](https://github.com/jessehouwing/pretty-github/projects)
  10. Add a 😁 personal touch by setting up your profile repo.
  11. Use ▶️ GitHub Actions to automatically keep your profile up to date with 😻 useful content
