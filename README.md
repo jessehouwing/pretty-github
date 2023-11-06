@@ -8,8 +8,7 @@
  2. Use emoji to add some color 🎨 to your documents.
  3. [Change the 🟠 colors of your 🏷️ labels in issues and add emoji like: 🐛.](https://github.com/jessehouwing/pretty-github/labels)
  4. Use 📄 issue templates or 📰 issue forms to guide people along. Be sure to add an icon ✨ and a description 🤩.
- 5. [Add a issue config.yml to add links to useful resources.](https://github.com/jessehouwing/pretty-github/blob/main/.github/ISSUE_TEMPLATE/config.yml)
- 6. Use 📎 issue links to provide easy access to ❔ FAQs, 📃 wiki and for example 💬 slack.
+ 6. [Use 📎 issue links to provide easy access to ❔ FAQs, 📃 wiki and for example 💬 slack.](https://github.com/jessehouwing/pretty-github/blob/main/.github/ISSUE_TEMPLATE/config.yml)
  7. Add 🔗 links to your deployments using Actions Environment URLs.
  8. Add a 📲 workflow summary with ℹ️ useful links.
  9. Don't forget to add 🖼️ pictures and 🧜‍♀️ graphs.
