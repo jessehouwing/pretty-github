@@ -4,7 +4,7 @@
 
  ## Tips:
 
- 1. Don't put too much content in your Readme.md. Remember, you can easily link to files in either `📁 /docs` or link to the `📃 wiki`.
+ 1. Don't put too much content in your Readme.md. Remember, you can easily link to files in either [`📁 /docs`](/docs) or link to the `📃 wiki`.
  2. Use emoji to add some color 🎨 to your documents.
  3. [Change the 🟠 colors of your 🏷️ labels in issues and add emoji like: 🐛.](https://github.com/jessehouwing/pretty-github/labels)
  4. Use 📄 issue templates or 📰 issue forms to guide people along. Be sure to add an icon ✨ and a description 🤩.
@@ -13,5 +13,5 @@
  8. [Add a 📲 workflow summary with ℹ️ useful links.](https://github.com/jessehouwing/pretty-github/actions/runs/6777618470)
  9. Don't forget to add 🖼️ pictures and 🧜‍♀️ graphs.
  10. [🌶️ Spice up your projects with 🚦 emoji and 📱 colors.](https://github.com/jessehouwing/pretty-github/projects)
- 11. Add a 😁 personal touch by setting up your profile repo.
- 12. Use ▶️ GitHub Actions to automatically keep your profile up to date with 😻 useful content
+ 11. [Add a 😁 personal touch by setting up your profile repo.](https://github.com/jessehouwing/jessehouwing)
+ 12. [Use ▶️ GitHub Actions to automatically keep your profile up to date with 😻 useful content](https://github.com/jessehouwing/jessehouwing/blob/master/.github/workflows/blog-post-workflow.yml)
