@@ -10,7 +10,7 @@
  4. Use 📄 issue templates or 📰 issue forms to guide people along. Be sure to add an icon ✨ and a description 🤩.
  6. [Use 📎 issue links to provide easy access to ❔ FAQs, 📃 wiki and for example 💬 slack.](https://github.com/jessehouwing/pretty-github/blob/main/.github/ISSUE_TEMPLATE/config.yml)
  7. [Add 🔗 links to your deployments using Actions Environment URLs.](https://github.com/jessehouwing/pretty-github/actions/runs/6777556097)
- 8. Add a 📲 workflow summary with ℹ️ useful links.
+ 8. [Add a 📲 workflow summary with ℹ️ useful links.](https://github.com/jessehouwing/pretty-github/actions/runs/6777618470)
  9. Don't forget to add 🖼️ pictures and 🧜‍♀️ graphs.
  10. [🌶️ Spice up your projects with 🚦 emoji and 📱 colors.](https://github.com/jessehouwing/pretty-github/projects)
  11. Add a 😁 personal touch by setting up your profile repo.
