@@ -1,0 +1,15 @@
+name: Demo Workflow Summary
+
+on:
+  workflow_dispatch:
+
+jobs:
+  write-summary:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Write a workflow summary
+        run: |
+          echo "# Useful links:
+            - [🌐 Test environment](https://github.com/jessehouwing/pretty-github/blob/test/README.md)
+            - [✅ Test scripts](https://github.com/jessehouwing/pretty-github/tree/test/docs/test)
